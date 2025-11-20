@@ -3,7 +3,7 @@ import numpy as np
 import cv2
 import mediapipe as mp
 import os
-from realsense_hand_transform import HandCoordinateTransform
+from recycle_bin.realsense_hand_transform import HandCoordinateTransform
 
 # Chessboard configuration
 CHESSBOARD_SIZE = (9, 7)  # (columns, rows) of internal corners
