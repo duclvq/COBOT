@@ -1,3 +1,4 @@
-transformers
+pyrealsense2
 opencv-python
 mediapipe
+numpy
